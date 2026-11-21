@@ -56,3 +56,6 @@ It is yours.
 ## License
 
 This idea is free for everyone.
+
+Your messages :
+Questions ? Ideas ? Click on Issues at top, then New issue.
